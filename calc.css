@@ -1,0 +1,32 @@
+h1{
+    background-color: gold;
+    font-style: italic;
+    font-family: sans-serif;
+    border: 100px rgb(255, 0, 0);
+    text-align: center;
+    box-sizing: border-box;
+  }
+  
+  #container{
+    border: solid black 3px;
+    height: 523px;
+    width: 400px;
+    margin: auto;
+    padding: 0;
+    background-color: grey;
+  }
+  
+  body{
+    background: red;
+  
+  }
+  
+#display_text{
+    height: 30px;
+    width: 50px;
+    background-color: aliceblue;
+}
+  
+label{
+    text-align: center;
+}
